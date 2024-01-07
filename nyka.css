@@ -1,0 +1,9 @@
+.f-nav{
+    display: flex;
+    height: 40px;
+    background: #f370b8;
+    
+} 
+.fearture{
+    display: flex;
+}
